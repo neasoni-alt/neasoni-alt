@@ -1,31 +1,95 @@
 
 
 
-👋 About Me<br><br>Hi! I'm a student currently learning and exploring the world of Information Technology.<br><br>This is my personal GitHub account, where I share projects, experiments, and school-related work that I create while studying. Most of the projects here are made for educational and learning purposes as I practice my programming and technical skills.<br><br>I'm still learning, making mistakes, and improving along the way. 🚀<br><br>🎓 Student | 💻 Learning IT | 🛠️ Building Projects | 📚 Always Learning
-<br><br>Learn → Build → Break → Fix → Improve → Repeat.
+<table>
+<tr>
+<td width="100%">
+
+<h2>👋 About Me</h2>
+
+<p>
+Hi! I'm a <strong>student currently learning and exploring the world of Information Technology.</strong>
+</p>
+
+<p>
+This is my <strong>personal GitHub account</strong>, where I share projects, experiments, and school-related work that I create while studying. Most of the projects here are made for <strong>educational and learning purposes</strong> as I practice my programming and technical skills.
+</p>
+
+<p>
+I'm still learning, making mistakes, and improving along the way. 🚀
+</p>
+<br>
+<p align="center">
+🎓 <strong>Student</strong> &nbsp;|&nbsp;
+💻 <strong>Learning IT</strong> &nbsp;|&nbsp;
+🛠️ <strong>Building Projects</strong> &nbsp;|&nbsp;
+📚 <strong>Always Learning</strong>
+</p>
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neasonivodlab@gmail.com) [![neasonivodlab@gmail.com](https://img.shields.io/badge/neasonivodlab%40gmail.com-808080?logoColor=white)](mailto:neasonivodlab@gmail.com)
+<p align="center">
+<strong>Learn → Build → Break → Fix → Improve → Repeat.</strong>
+</p>
+
+<p align="center">
+<a href="mailto:neasonivodlab@gmail.com">
+<img src="https://img.shields.io/badge/neasonivodlab%40gmail.com-D14836?logo=gmail&logoColor=white">
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 --------------------------------------------------------------------------------------------------------------------
 
-🛠️ Technical skills % Tools:
+## 🛠️ Technical Skills & Tools
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
 
------
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
-🎮 Things I Like
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+### 🧰 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+---
 
-### ✍️ Random Dev Quote
+## 🎮 Gaming & Interests
+
+![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
+![EA](https://img.shields.io/badge/EA-%23000000.svg?style=flat&logo=ea&logoColor=white)
+![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+
+---
+
+## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=neasoni-alt&icon=5&color=0)](https://visitcount.itsvg.in)
 
+[![](https://komarev.com/ghpvc/?username=neasoni-alt&icon=5&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
