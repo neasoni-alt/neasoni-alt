@@ -23,7 +23,7 @@ I'm still learning, making mistakes, and improving along the way. 🚀
 🎓 <strong>Student</strong> &nbsp;|&nbsp;
 💻 <strong>Learning IT</strong> &nbsp;|&nbsp;
 🛠️ <strong>Building Projects</strong> &nbsp;|&nbsp;
-📚 <strong>Always Learning</strong>
+📚 <strong>Sometimes Learning</strong>
 </p>
 
 
@@ -48,19 +48,16 @@ I'm still learning, making mistakes, and improving along the way. 🚀
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
 
 ### 🧰 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
