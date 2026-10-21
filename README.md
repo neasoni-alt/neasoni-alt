@@ -1,14 +1,15 @@
-### 🐞 \(\color{#d9534f}{\text{\bf Code Status: 99}}\) little bugs in the code,<br>
-Take one down, patch it around...<br>
+🐞 <span style="color: #d9534f; font-weight: bold;">Code Status: 99</span> little bugs in the code,
+
+Take one down, patch it around...
 **127** little bugs in the code.
 
-> 💥 **UnhandledPromiseRejectionWarning:** `BugOverflowException: Maximum call stack exceeded while patching bug #100.`
+> 🚨 **UnhandledPromiseRejectionWarning**: `BugOverflowException`: Maximum call stack exceeded while patching bug #100.
 > 
 > **Caused by:** Attempted to fix `1` bug, resulting in `28` new unintended features.
 > 
-> `FATAL:` **Reality.exe** has stopped working.
+> `FATAL:` Reality.exe has stopped working.
 > 
-> _"Please commit your changes and go touch grass."_
+> *"Please commit your changes and go touch grass."*
 <!-------
 
 <table>
