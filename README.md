@@ -1,5 +1,5 @@
 
-
+<!-------
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ I'm still learning, making mistakes, and improving along the way. 🚀
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
-
+--->
 ---
 
 ## ✍️ Random Dev Quote
